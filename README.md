@@ -17,7 +17,7 @@ In addition, you will need to be able to run an jupyter Notebook to go along wit
 
 In a terminal/command window, go to the top-level project directory `boston_housing/` (that contains this README). Then run:
 
-```ipython notebook boston_housing.ipynb```
+```jupyter notebook boston_housing.ipynb```
 
 ## Data
 
